@@ -1,0 +1,1 @@
+const name = arg[2] || "world";
